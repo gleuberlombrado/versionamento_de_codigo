@@ -6,3 +6,5 @@
 * Adulto para 25 até 40 anos;
 * Meia Idade para 41 até 60 anos;
 * Idoso acima de 60 anos.
+  
+ ## 3. Faça um programa que solicite ao usuário 2 valores, utilize uma condição ternária para escrever qual o maior valor: o primeiro ou o segundo (caso os valores sejam iguais, considere o segundo).*
